@@ -1,7 +1,7 @@
 # INTRODUCTION
 This application performs a keyword search on a set of PDF files.
 
-It extracts the text from the PDFs, identifies the paragraphs containing the keywords and displays the results on the screen, as well as offering options to save the results to a JSON file and create a CSV index of the keywords found.
+It extracts the text from the PDFs, identifies the paragraphs containing the keywords and displays the results on the screen, as well as offering options to save the results to a JSON file or a TXT file and create a CSV index of the keywords found.
 
 
 ## 📚 Section 1: Library Installation
