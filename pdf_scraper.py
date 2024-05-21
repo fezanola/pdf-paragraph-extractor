@@ -1,7 +1,7 @@
 import os
 import re
 from pdfminer.high_level import extract_text
-# Eae
+# Eae.
 
 def extract_paragraphs_containing_keywords(pdf_path, keywords):
     text = extract_text(pdf_path)
